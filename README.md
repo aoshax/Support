@@ -22,8 +22,8 @@ Discord: **Artemking4#5024**
 
 VK: https://vk.com/artemking48
 ### Morphy (Lead developer)
-
 Discord: **morphy#3636**
+
 VK: https://vk.com/mintbutterscotch
 ### Daniel Homes (Developer)
 Discord: **Даниель Хоумс (Даня)#1853**
