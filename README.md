@@ -3,6 +3,7 @@ For this - create an issue on the [Issues tab](https://github.com/aoshax/Support
 
 # Project progress tracking
 If you want to see, how far did the project go already - visit the [Projects tab](https://github.com/aoshax/Support/projects)
+
 Previously you would track it on trello. Now it is all on github.
 
 # Wiki
