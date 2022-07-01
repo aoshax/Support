@@ -10,15 +10,15 @@ Previously you would track it on trello. Now it is all on github.
 This is currently empty, but will later be used to store guides, api docs and fixes for bugs in the cheat. 
 
 # Planned release date
-We are currently planning to release AOSHax in January 2021.
+We planning to release AOSHax soon.
 
 # Contacts 
 ## Public groups
-Discord: https://discord.gg/uFV2TSf
+Discord: https://discord.gg/uQ6vrQkbU5
 VK: https://vk.com/aoshax
 ## Developer contacts
 ### Artemking4 (Lead developer, project owner)
-Discord: **Artemking4#5024**
+Discord: **Artemking4#2531**
 
 VK: https://vk.com/artemking48
 ### Morphy (Lead developer)
@@ -29,3 +29,8 @@ VK: https://vk.com/mintbutterscotch
 Discord: **Даниель Хоумс (Даня)#1853**
 
 VK: https://vk.com/dayuvizitkid2
+
+### twenty two (Web Developer)
+Discord: **twenty two#8061**
+
+VK: https://vk.com/twentytwo777
