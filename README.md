@@ -10,7 +10,7 @@ Previously you would track it on trello. Now it is all on github.
 This is currently empty, but will later be used to store guides, api docs and fixes for bugs in the cheat. 
 
 # Planned release date
-We planning to release AOSHax soon.
+We are planning to release AOSHax soon.
 
 # Contacts 
 ## Public groups
@@ -25,11 +25,6 @@ VK: https://vk.com/artemking48
 Discord: **morphy#3636**
 
 VK: https://vk.com/mintbutterscotch
-### Daniel Homes (Developer)
-Discord: **Даниель Хоумс (Даня)#1853**
-
-VK: https://vk.com/dayuvizitkid2
-
 ### twenty two (Web Developer)
 Discord: **twenty two#8061**
 
